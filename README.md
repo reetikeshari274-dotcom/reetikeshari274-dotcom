@@ -3,19 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=23&duration=2000&pause=600&color=4ADE80&background=05080F&center=true&vCenter=true&width=980&height=95&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+REETI+KESHARI+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%9A%A0%EF%B8%8F+0xDEADBEEF+%E2%96%93%E2%96%92+SYSTEM_CORRUPT+%E2%96%92%E2%96%93;PYTHON+%E2%80%A2+DATA+%E2%80%A2+BLENDER+%E2%80%A2+FIGMA+%E2%80%A2+AI" alt="Glitched Pixel Header" />
 </div>
 
-<!-- MAIN HERO BANNER: YOUR CUSTOM MINECRAFT REETI EDITION GLITCH IMAGE -->
+<!-- MAIN HERO BANNER: MY_GAME.PNG (CLICKABLE TO LAUNCH MINECRAFT!) -->
 <div align="center">
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/reetikeshari274-dotcom/reetikeshari274-dotcom/main/reeti-minecraft-glitch.png" width="94%" style="border: 3px dashed #FF007F; border-radius: 6px;" alt="Minecraft Reeti Edition Glitch" />
-  </a>
-  <br/>
-  <code>█▓▒░ [CRITICAL_GLITCH: REALITY_DESTROYED] ░▒▓█ &nbsp;|&nbsp; 🟩 GLITCH MODE: ACTIVE &nbsp;|&nbsp; ⚠️ DON'T ENTER (404)</code>
-</div>
-
-<!-- MAIN HERO BANNER: YOUR CUSTOM MINECRAFT REETI EDITION GLITCH IMAGE -->
-<div align="center">
-  <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/reetikeshari274-dotcom/reetikeshari274-dotcom/main/reeti-minecraft-glitch.png" width="94%" style="border: 3px dashed #FF007F; border-radius: 6px;" alt="Minecraft Reeti Edition Glitch" />
+    <img src="./my_game.png" width="94%" alt="Minecraft Reeti Edition Glitch" />
   </a>
   <br/>
   <code>█▓▒░ [CRITICAL_GLITCH: REALITY_DESTROYED] ░▒▓█ &nbsp;|&nbsp; 🟩 GLITCH MODE: ACTIVE &nbsp;|&nbsp; ⚠️ DON'T ENTER (404)</code>
@@ -45,7 +36,7 @@
 </div>
 
 <!-- 2. ABOUT ME + GLITCH-FRAMED RUNNING MINECRAFT PIG RIDER ON RIGHT -->
-<img align="right" alt="Glitched Minecraft Mob Rider" width="350" style="border: 3px dashed #4ADE80; padding: 4px;" src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" />
+<img align="right" alt="Glitched Minecraft Mob Rider" width="350" src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" />
 
 ### ⛏️ `/gamemode glitch_creative` — Player Bio `░▒▓█`
 
@@ -90,7 +81,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<!-- 4. TECH STACK & TOOLS (NO NODE.JS, JAVA, OR REACT!) -->
+<!-- 4. TECH STACK & TOOLS -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   `░▒▓█` Tech Stack & Tools `█▓▒░`
@@ -161,7 +152,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<!-- 6. CONTRIBUTION GRAPH -->
+<!-- 6. CONTRIBUTION GRAPHS (BOTH BLUE & EMERALD + RADAR OVERVIEW!) -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   `░▒▓█` Reeti's Contribution Graph `█▓▒░`
@@ -171,6 +162,15 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reetikeshari274-dotcom&theme=tokyo-night&hide_border=true&area=true&bg_color=05080F&color=38BDF8&line=38BDF8&point=FFFFFF&custom_title=Reeti's%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reetikeshari274-dotcom&theme=chartreuse-dark&hide_border=true&area=true&bg_color=05080F&color=4ADE80&line=4ADE80&point=FFFFFF&custom_title=Reeti's%20Emerald%20Activity%20Graph" alt="Emerald Contribution Graph" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reetikeshari274-dotcom&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reetikeshari274-dotcom&theme=tokyonight" width="48%" />
 </div>
 
 <!-- SHATTERED PIXEL DIVIDER -->
@@ -213,12 +213,12 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" style="border: 3px dashed #4ADE80; padding: 3px;" alt="Minecraft Mining Gameplay" />
+        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Minecraft Mining Gameplay" />
         <br/>
         <code>⛏️ [SURVIVAL_MINING.EXE] ░▒▓█</code>
       </td>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" style="border: 3px dashed #FF007F; padding: 3px;" alt="Minecraft Crafting & World" />
+        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Minecraft Crafting & World" />
         <br/>
         <code>🧱 [WORLD_BUILDER.EXE] █▓▒░</code>
       </td>
