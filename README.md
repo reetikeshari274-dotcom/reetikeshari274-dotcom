@@ -1,45 +1,42 @@
 <div align="center">
 
-<!-- 1. Animated Neon Plasma Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:A855F7&height=210&section=header&text=REETI%20KESHARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20Automation%20%E2%9A%A1%20AI%20Explorer%20%E2%9A%A1%20Creative%20Technologist&descAlignY=62&descSize=18" width="100%" />
+<!-- 1. Minecraft Emerald & Obsidian Pixel Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,45:10B981,100:064E3B&height=210&section=header&text=REETI%20KESHARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9B%8F%EF%B8%8F%20Python%20Redstone%20Engineer%20%7C%20AI%20World%20Builder%20%7C%20Creative%20Coder&descAlignY=63&descSize=16" width="100%" />
 
-<!-- 2. Futuristic Glowing Typing Effect -->
+<!-- 2. Retro Pixel Typing Banner (Minecraft Font Style) -->
 <a href="https://github.com/reetikeshari274-dotcom">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%3E_initializing_reeti.exe...+%5BOK%5D;%3E_building_zero_bloat_python_tools...;%3E_exploring_generative_AI_%26_automation...;%3E_welcome_to_my_digital_lab_%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=%3E+SPAWNED+IN+THE+OVERWORLD...;%3E+CRAFTING+PYTHON+%26+AI+SYSTEMS...;%3E+MINING+MESSY+DATA+INTO+DIAMONDS...;%3E+WELCOME+TO+REETI'S+SERVER!+%F0%9F%9F%A9" alt="Minecraft Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 3. Live Glowing Status Pills -->
+<!-- 3. Minecraft HUD Status Pills -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=SYSTEM+VISITORS&color=A855F7&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING_%26_SHIPPING-38BDF8?style=for-the-badge&logo=probot&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/AI_LAB-ACTIVE-10B981?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HP-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XP_LEVEL-99_MAX-10B981?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=PLAYERS+ONLINE&color=16A34A&style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-### 🛸 `system.identity()` — Who Am I?
+### ⛏️ `/gamemode creative` — Player Profile & Inventory
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-```yaml
-root@reeti-lab:~# cat profile.yml
+```properties
+# server.properties — @reetikeshari274-dotcom
+player.name        = Reeti Keshari
+player.class       = Redstone & AI Architect 🧠⚡
+world.seed         = Creativity + Clean Logic
+current.biome      = Python Overworld & AI Nether
 
-identity:
-  name: "Reeti Keshari"
-  role: "Python Developer & AI Builder"
-  vibe: "High Creativity + Clean Engineering"
-
-capabilities:
-  - "⚡ Turning messy raw data into clean pipelines"
-  - "🤖 Experimenting with AI workflows & smart automation"
-  - "🛠️ Building fast, zero-dependency CLI tools"
-  - "🎨 Blending visual creativity with solid backend logic"
-
-current_mission:
-  status: "Shipping real-world code & leveling up daily"
+# Equipped Hotbar Slots [1 - 5]
+slot.1.diamond_pickaxe = Mining & Cleaning Raw CSV Data
+slot.2.redstone_torch  = Automating Workflows with Python
+slot.3.enchanted_book  = Prompt Engineering & AI Systems
+slot.4.command_block   = Building Zero-Bloat CLI Tools
+slot.5.ender_pearl     = Teleporting Ideas into Real Code
