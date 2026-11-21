@@ -1,48 +1,45 @@
 <div align="center">
 
-<!-- Animated Typing SVG Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=Hi%2C+I'm+Reeti+%F0%9F%91%8B+%7C+Builder+%26+Problem+Solver;Python+Automation+%E2%80%A2+Clean+CLI+Systems+%E2%80%A2+AI+Explorer" alt="Typing SVG" />
+<!-- 1. Animated Neon Plasma Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:A855F7&height=210&section=header&text=REETI%20KESHARI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20Automation%20%E2%9A%A1%20AI%20Explorer%20%E2%9A%A1%20Creative%20Technologist&descAlignY=62&descSize=18" width="100%" />
 
+<!-- 2. Futuristic Glowing Typing Effect -->
+<a href="https://github.com/reetikeshari274-dotcom">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%3E_initializing_reeti.exe...+%5BOK%5D;%3E_building_zero_bloat_python_tools...;%3E_exploring_generative_AI_%26_automation...;%3E_welcome_to_my_digital_lab_%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 3. Live Glowing Status Pills -->
 <p align="center">
-  <a href="https://github.com/reetikeshari274-dotcom?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Python_%26_Automation-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
-  </a>
-  <a href="#-featured-build">
-    <img src="https://img.shields.io/badge/Exploring-AI_%26_Data_Pipelines-0F172A?style=for-the-badge&logo=sparkles&logoColor=FACC15" />
-  </a>
-  <a href="https://github.com/reetikeshari274-dotcom">
-    <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=PROFILE+VIEWS&color=0284C7&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=SYSTEM+VISITORS&color=A855F7&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING_%26_SHIPPING-38BDF8?style=for-the-badge&logo=probot&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/AI_LAB-ACTIVE-10B981?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ About Me — Code Meets Creativity
+### 🛸 `system.identity()` — Who Am I?
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-#### 🚀 What Drives My Work
-- ⚙️ **Zero-Bloat Python Engineering:** Building fast, standard-library CLI utilities and automated data pipelines with clean architecture.
-- 🧠 **AI & Practical Problem Solving:** Designing smart, user-focused tools that turn repetitive manual work into one-command automation.
-- 🎨 **Creative Tech & Visual Thinking:** Combining structured logic with expressive, intuitive product design.
-- 🔍 **Currently Exploring:** Production backend scripts, automated testing, and scalable data sanitization workflows.
+```yaml
+root@reeti-lab:~# cat profile.yml
 
-</td>
-<td width="45%" valign="top">
+identity:
+  name: "Reeti Keshari"
+  role: "Python Developer & AI Builder"
+  vibe: "High Creativity + Clean Engineering"
 
-```json
-{
-  "developer": "Reeti",
-  "github": "@reetikeshari274-dotcom",
-  "status": "Building & Shipping ⚡",
-  "core_focus": [
-    "Python CLI & Automation",
-    "Data Cleaning & Pipelines",
-    "AI Workflows & Scripting"
-  ],
-  "engineering_ethos": "Zero bloat. Clear logic. Real impact."
-}
+capabilities:
+  - "⚡ Turning messy raw data into clean pipelines"
+  - "🤖 Experimenting with AI workflows & smart automation"
+  - "🛠️ Building fast, zero-dependency CLI tools"
+  - "🎨 Blending visual creativity with solid backend logic"
+
+current_mission:
+  status: "Shipping real-world code & leveling up daily"
