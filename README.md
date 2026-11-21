@@ -3,13 +3,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=23&duration=2000&pause=600&color=4ADE80&background=05080F&center=true&vCenter=true&width=980&height=95&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+REETI+KESHARI+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%9A%A0%EF%B8%8F+0xDEADBEEF+%E2%96%93%E2%96%92+SYSTEM_CORRUPT+%E2%96%92%E2%96%93;PYTHON+%E2%80%A2+DATA+%E2%80%A2+BLENDER+%E2%80%A2+FIGMA+%E2%80%A2+AI" alt="Glitched Pixel Header" />
 </div>
 
-<!-- MAIN HERO BANNER: YOUR CUSTOM MINECRAFT REETI EDITION GLITCH IMAGE! -->
+<!-- MAIN HERO BANNER: YOUR CUSTOM MINECRAFT REETI EDITION GLITCH IMAGE -->
 <div align="center">
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/reetikeshari274-dotcom/reetikeshari274-dotcom/main/reeti-minecraft-glitch.jpg" width="94%" style="border: 3px dashed #FF007F; border-radius: 6px;" alt="Minecraft Reeti Edition Glitch" />
+    <img src="https://raw.githubusercontent.com/reetikeshari274-dotcom/reetikeshari274-dotcom/main/reeti-minecraft-glitch.png" width="94%" style="border: 3px dashed #FF007F; border-radius: 6px;" alt="Minecraft Reeti Edition Glitch" />
   </a>
   <br/>
   <code>█▓▒░ [CRITICAL_GLITCH: REALITY_DESTROYED] ░▒▓█ &nbsp;|&nbsp; 🟩 GLITCH MODE: ACTIVE &nbsp;|&nbsp; ⚠️ DON'T ENTER (404)</code>
+</div>
+
+<br/>
+
+<!-- CLICKABLE ANIMATED MINECRAFT GAME LAUNCH BUTTON -->
+<div align="center">
+  <a href="https://classic.minecraft.net/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=15&duration=2000&pause=600&color=05080F&background=4ADE80&center=true&vCenter=true&width=760&height=52&lines=%E2%96%B6+PRESS_START:+ENTER_REETI'S_MINECRAFT_WORLD;%F0%9F%8E%AE+CLICK_HERE_TO_SPAWN_%26_DESTROY_REALITY!" alt="Play Minecraft Animated Button" />
+  </a>
 </div>
 
 <br/>
@@ -42,7 +51,7 @@
 
 <br/>
 
-<!-- 3. SHATTERED PIXEL SPRITES ROW (WITH GLITCH BLOCKS IN BETWEEN!) -->
+<!-- 3. SHATTERED PIXEL SPRITES ROW + HAPPY DAY THE 19TH PIXEL BANNER -->
 <div align="center">
   <code>░▒▓█</code>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75">
@@ -59,13 +68,20 @@
   <code>█▓▒░</code>
 </div>
 
+<br/>
+
+<!-- HAPPY DAY THE 19TH RETRO PIXEL CARD -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=2600&pause=1000&color=FACC15&background=090D16&center=true&vCenter=true&width=720&height=65&lines=%F0%9F%8E%83+HAPPY+DAY+THE+19TH+%F0%9F%8E%83;%E2%96%88%E2%96%93%E2%96%92+LUCKY_GLITCH_UNLOCKED+%E2%96%92%E2%96%93%E2%96%88" alt="Happy Day The 19th" />
+</div>
+
 <!-- SHATTERED PIXEL DIVIDER -->
 <div align="center">
   <code>█▓▒░▀▄▀▄▀▄ [PIXEL_CORRUPTION_DETECTED] ▄▀▄▀▄▀░▒▓█</code>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<!-- 4. YOUR EXACT TECH STACK & TOOLS (ONLY YOUR REAL SKILLS!) -->
+<!-- 4. TECH STACK & TOOLS (NO NODE.JS, JAVA, OR REACT!) -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
   `░▒▓█` Tech Stack & Tools `█▓▒░`
@@ -176,7 +192,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<!-- 8. LIVE RUNNING MINECRAFT GAMEPLAY ZONE (GLITCH-FRAMED!) -->
+<!-- 8. LIVE RUNNING MINECRAFT GAMEPLAY ZONE -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" width="38">
   `░▒▓█` Dark Minecraft World — Live Gameplay `█▓▒░`
@@ -195,13 +211,13 @@
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" style="border: 3px dashed #FF007F; padding: 3px;" alt="Minecraft Crafting & World" />
         <br/>
-        <code>🧱 [A_BUILDER.EXE] █▓▒░</code>
+        <code>🧱 [WORLD_BUILDER.EXE] █▓▒░</code>
       </td>
     </tr>
   </table>
   <br/>
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://img.shields.io/badge/▶_SPAWN_&_PLAY_MINECRAFT_IN_BROWSER-10B981?style=for-the-badge&logo=minecraft&logoColor=05080F" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=14&duration=2200&pause=700&color=05080F&background=10B981&center=true&vCenter=true&width=720&height=48&lines=%E2%96%B6+LAUNCH_DARK_MINECRAFT_IN_BROWSER_%5BCLICK%5D;%E2%9B%8F%EF%B8%8F+SPAWN_NOW_+_MINE_BLOCKS_LIVE!" alt="Launch Minecraft Button" />
   </a>
 </div>
 
