@@ -1,36 +1,38 @@
-<!-- 1. TOP RETRO PIXEL LIGHTS & BLOCK HEADER (DECK THE PIXELS VIBE!) -->
+<!-- 1. TOP PIXEL HEADER + MAIN HERO MINECRAFT RUNNING GAME ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=28&duration=3200&pause=1500&color=4ADE80&background=090D16&center=true&vCenter=true&width=980&height=100&lines=%F0%9F%92%A1+REETI+KESHARI+%F0%9F%92%A1;PYTHON+%E2%80%A2+DATA+%E2%80%A2+BLENDER+%E2%80%A2+FIGMA+%E2%80%A2+AI" alt="Pixel Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=28&duration=3200&pause=1500&color=4ADE80&background=090D16&center=true&vCenter=true&width=980&height=95&lines=%F0%9F%92%A1+REETI+KESHARI+%F0%9F%92%A1;PYTHON+%E2%80%A2+DATA+%E2%80%A2+BLENDER+%E2%80%A2+FIGMA+%E2%80%A2+AI" alt="Pixel Header" />
 </div>
 
-<!-- DARK MINECRAFT TITLE SCREEN HERO BANNER -->
+<!-- MAIN PAGE SPOTLIGHT: MINECRAFT BABY ZOMBIE RIDING PIG GIF -->
 <div align="center">
-  <a href="https://github.com/reetikeshari274-dotcom">
-    <img src="https://raw.githubusercontent.com/dracula/minecraft/master/screenshot.png" width="92%" alt="Dark Minecraft Edition Banner" />
+  <a href="https://classic.minecraft.net/" target="_blank">
+    <img src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" width="440" style="border-radius: 14px; border: 3px solid #4ADE80;" alt="Minecraft Zombie Pig Rider" />
   </a>
+  <br/>
+  <sub>🟩 <b>SPAWNED IN REETI'S DARK OVERWORLD</b> — <i>Click the mob above to launch Minecraft in your browser!</i></sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=42&lines=%3E_spawning_into_reeti's_dark_minecraft_overworld...;%3E_mining_messy_CSV_data_into_clean_diamonds...;%3E_crafting_3D_renders_in_blender_%26_UI_in_figma...;%3E_active_effects:_HASTE_II_%2B_STRENGTH_II_%E2%9A%A1" alt="Sub Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=42&lines=%3E_mining_messy_CSV_data_into_clean_diamonds...;%3E_crafting_3D_renders_in_blender_%26_UI_in_figma...;%3E_speaking_fluent_Parser-Tongue_(Python)_%F0%9F%90%8D;%3E_active_buffs:_HASTE_II_%2B_LUCK_II_%E2%9A%A1" alt="Sub Typing" />
 </div>
 
 <h4 align="center">🟩 HP: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ &nbsp;|&nbsp; ⚡ XP: LVL 99 &nbsp;|&nbsp; 🧪 EFFECTS: HASTE II • LUCK II • NIGHT VISION 🟩</h4>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 2. ABOUT ME + DARK MINECRAFT INVENTORY HUD -->
-<img align="right" alt="Dark Minecraft Inventory" width="420" src="https://raw.githubusercontent.com/DaisyUniverse/GrimstoneOS/master/screenshots/inv.png" />
+<!-- 2. ABOUT ME + SHORTER PYTHON "PARSER-TONGUE" COMIC -->
+<img align="right" alt="Parser-Tongue Python Comic" width="330" src="https://i.redd.it/i-didnt-know-harry-spoke-python-v0-4k57g9g87z1a1.jpg?s=35664917a10d556f9793a7351742c3c033290e7e" />
 
 ### ⛏️ `/gamemode creative` — Player Bio & Active Buffs
 
 - 🌍 **Spawn Point:** Building Python tools, data pipelines & 3D visuals from **India**
-- 🐍 **Primary Weapon:** Clean, zero-dependency **Python** CLI & automation scripts
-- 📊 **Data Crafting:** Cleaning, deduplicating & structuring messy CSV datasets
-- 🎨 **Creative Studio:** 3D object/character modeling in **Blender** + UI/UX in **Figma**
-- 🧠 **AI Lab:** Exploring Generative AI workflows & smart prompt engineering
+- 🐍 **Parser-Tongue Speaker:** Crafting clean, zero-dependency **Python** CLI & automation scripts
+- 📊 **Data Crafting:** Cleaning, deduplicating & structuring messy CSV & MySQL datasets
+- 🎨 **Creative Studio:** 3D object/character renders in **Blender** + UI/UX in **Figma & Canva**
+- 🧠 **AI Explorer:** Experimenting with Generative AI workflows & smart prompt engineering
 - 🧪 **Active Mob Effects:** `Haste II` (Fast Execution) • `Luck II` (Clean Data) • `Night Vision` (Dark Mode Always!)
 
 <br clear="right"/>
@@ -47,50 +49,50 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="85">
 </div>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 4. INVENTORY: PYTHON, DATA, BLENDER, FIGMA & DEV TOOLS (ZERO FAKE JS/REACT!) -->
+<!-- 4. TECH STACK & TOOLS (FILTERED: NO LINUX, UBUNTU, ROS 2, UNITY, OR FUSION 360!) -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Crafting Table — Tech Stack & Creative Tools
+  Tech Stack & Tools
 </h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,blender,figma&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github,blender,html,css,mysql,figma&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python_Automation-090D16?style=for-the-badge&logo=python&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/CSV_%26_Data_Cleaning-090D16?style=for-the-badge&logo=databricks&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Blender_3D_Design-090D16?style=for-the-badge&logo=blender&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Figma_UI%2FUX-090D16?style=for-the-badge&logo=figma&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/AI_Prompt_Engineering-090D16?style=for-the-badge&logo=openai&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/CANVA-1E293B?style=for-the-badge&logo=canva&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LATEX-1E293B?style=for-the-badge&logo=latex&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/CSV_%26_DATA_CLEANING-1E293B?style=for-the-badge&logo=databricks&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/AI_PROMPTING-1E293B?style=for-the-badge&logo=openai&logoColor=A855F7" />
 </div>
 
 <br/>
 
 <div align="center">
 
-| Hotbar Slot | Minecraft Item | Equipped Skill |
-| :---: | :--- | :--- |
-| 💎 **Slot 1** | **Diamond Pickaxe** | `Python 3` — *Data Sanitization, CLI Engineering (`csv`, `argparse`, `pathlib`)* |
-| 📊 **Slot 2** | **Enchanted Map** | `Data & SQL` — *Structured Datasets, Deduplication & Schema Validation* |
-| 🎨 **Slot 3** | **Painting & Loom** | `Blender & Figma` — *3D Character/Object Renders & Clean UI Prototyping* |
-| 🔴 **Slot 4** | **Redstone Block** | `AI & Terminal` — *Prompt Workflows, Git, GitHub & Bash Scripting* |
+| Area | Skills |
+| :--- | :--- |
+| **Programming Languages** | `C++` • `Python` |
+| **Development Environment** | `Visual Studio Code` • `Git` • `GitHub` |
+| **3D Design & Modeling** | `Blender` |
+| **Web Technologies** | `HTML5` • `CSS3` • *Basics* |
+| **Database & Data** | `MySQL` • `CSV Data Sanitization` |
+| **Design & Creative Tools** | `Figma` • `Canva` |
+| **Documentation & Typesetting** | `LaTeX` |
 
 </div>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 5. SERVER STATS & XP STREAK -->
+<!-- 5. SERVER STATS & XP TELEMETRY -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Server Statistics & XP Streak
@@ -99,18 +101,18 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reetikeshari274-dotcom&theme=tokyonight&hide_border=true&background=090D16&ring=4ADE80&fire=38BDF8&currStreakLabel=4ADE80" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reetikeshari274-dotcom&theme=tokyonight&hide_border=true&background=090D16&ring=4ADE80&fire=FF007F&currStreakLabel=4ADE80" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=reetikeshari274-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=4ADE80&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reetikeshari274-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=reetikeshari274-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=4ADE80&icon_color=FF007F&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reetikeshari274-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=4ADE80&text_color=FFFFFF" />
 </p>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 6. CONTRIBUTION GRAPH (EXACT SMOOTH DARK GRAPH STYLE!) -->
+<!-- 6. CONTRIBUTION GRAPH -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   Reeti's Contribution Graph
@@ -122,10 +124,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reetikeshari274-dotcom&theme=tokyo-night&hide_border=true&area=true&bg_color=090D16&color=38BDF8&line=38BDF8&point=FFFFFF&custom_title=Reeti's%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 7. QUEST LOG — FEATURED PROJECT -->
+<!-- 7. QUEST LOG — FEATURED BUILDS -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   Quest Log — Featured Builds
@@ -141,10 +143,10 @@
 
 </div>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 8. DARK MINECRAFT ARCADE & LIVE RUNNING SNAKE GAME AT THE BOTTOM! -->
+<!-- 8. DARK MINECRAFT ARCADE & LIVE RUNNING GAME -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" width="38">
   Dark Minecraft Arcade & Live Running Game
@@ -159,10 +161,10 @@
 
 <br/>
 
-<!-- Dark Minecraft World Screenshot + Clickable Play Button -->
+<!-- Dark Minecraft Inventory & Crafting UI -->
 <div align="center">
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DaisyUniverse/GrimstoneOS/master/screenshots/blocks.png" width="46%" alt="Dark Minecraft Blocks" />
+    <img src="https://raw.githubusercontent.com/DaisyUniverse/GrimstoneOS/master/screenshots/inv.png" width="46%" alt="Dark Minecraft Inventory" />
     <img src="https://raw.githubusercontent.com/DaisyUniverse/GrimstoneOS/master/screenshots/crafting.png" width="46%" alt="Dark Minecraft Crafting" />
   </a>
   <br/><br/>
@@ -171,24 +173,24 @@
   </a>
 </div>
 
-<!-- GLOWING ANIMATED DIVIDER -->
+<!-- GLOWING PIXEL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- 9. CONNECT + STAR + THANKS FOOTER -->
+<!-- 9. NEON PINK CONNECT BUTTONS (MATCHING YOUR SCREENSHOT!) + THANKS FOOTER -->
 <h2 align="center">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="32">
-  Connect & Support
+  Connect & Explore
 </h2>
 
+<br/>
+
 <div align="center">
-  <a href="https://github.com/reetikeshari274-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-090D16?style=for-the-badge&logo=github&logoColor=4ADE80" />
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-REETI_KESHARI-FF007F?style=for-the-badge&labelColor=090D16" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/reetikeshari274-dotcom/csv-data-cleaner">
-    <img src="https://img.shields.io/badge/Star_CSV_Cleaner-10B981?style=for-the-badge&logo=python&logoColor=090D16" />
-  </a>
-  <a href="https://classic.minecraft.net/">
-    <img src="https://img.shields.io/badge/Play_Minecraft-38BDF8?style=for-the-badge&logo=gamepad&logoColor=090D16" />
+  <br/><br/>
+  <a href="https://github.com/reetikeshari274-dotcom?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_PROJECTS-FF007F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=090D16" alt="Explore My Projects" />
   </a>
 </div>
 
@@ -202,8 +204,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=PLAYERS+VISITED&color=10B981&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/reetikeshari274-dotcom?label=FOLLOWERS&style=for-the-badge&color=38BDF8" />
+  <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=PLAYERS+VISITED&color=FF007F&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/reetikeshari274-dotcom?label=FOLLOWERS&style=for-the-badge&color=10B981" />
 </div>
 
 <br/>
