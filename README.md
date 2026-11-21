@@ -1,42 +1,35 @@
+<!-- 1. TOP MINECRAFT PIXEL HERO BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080F,40:064E3B,75:10B981,100:05080F&height=220&section=header&text=REETI%20KESHARI&fontSize=48&fontColor=4ADE80&animation=fadeIn&fontAlignY=38&desc=%E2%9B%8F%EF%B8%8F%20Python%20Builder%20%7C%20AI%20Explorer%20%7C%20Creative%20Coder&descAlignY=63&descSize=18" width="100%" />
+</div>
 
-<!-- 1. Minecraft Emerald & Obsidian Pixel Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,45:10B981,100:064E3B&height=210&section=header&text=REETI%20KESHARI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%9B%8F%EF%B8%8F%20Python%20Redstone%20Engineer%20%7C%20AI%20World%20Builder%20%7C%20Creative%20Coder&descAlignY=63&descSize=16" width="100%" />
+<!-- 2. RETRO PIXEL TYPING HEADER (MINECRAFT FONT) -->
+<div align="center">
+  <a href="https://github.com/reetikeshari274-dotcom">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=1000&color=4ADE80&center=true&vCenter=true&width=900&height=50&lines=SPAWNED+IN+REETI'S+DIGITAL+WORLD+%F0%9F%9F%A9;BUILDING+CLEAN+PYTHON+%26+AI+TOOLS+%E2%9A%A1;TURNING+MESSY+DATA+INTO+DIAMONDS+%F0%9F%92%8E;LEVELING+UP+ONE+COMMIT+AT+A+TIME+%F0%9F%9A%80" alt="Minecraft Typing SVG" />
+  </a>
+</div>
 
-<!-- 2. Retro Pixel Typing Banner (Minecraft Font Style) -->
-<a href="https://github.com/reetikeshari274-dotcom">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=45&lines=%3E+SPAWNED+IN+THE+OVERWORLD...;%3E+CRAFTING+PYTHON+%26+AI+SYSTEMS...;%3E+MINING+MESSY+DATA+INTO+DIAMONDS...;%3E+WELCOME+TO+REETI'S+SERVER!+%F0%9F%9F%A9" alt="Minecraft Typing SVG" />
-</a>
+<h4 align="center">🟩 HP: ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️ &nbsp;|&nbsp; ⚡ XP: LVL 99 &nbsp;|&nbsp; 🎮 MODE: CREATIVE + SURVIVAL 🟩</h4>
+
+<!-- GLOWING ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- 3. PLAYER BIO + FLOATING PIXEL / MINECRAFT CHARACTER GIF -->
+<img align="right" alt="Minecraft Pixel Coder" width="360" src="https://media.giphy.com/media/139eZBmH1HTyRa/giphy.gif" />
+
+### ⛏️ `/gamemode creative` — About Me
+
+- 🌍 **Spawn Point:** Building cool things with Python & AI from India
+- 💎 **Currently Crafting:** Clean, zero-dependency Python CLI utilities & data tools
+- 🧠 **Exploring:** Generative AI workflows, prompt engineering & smart automation
+- 🛠️ **Honest Builder Mindset:** Learning deeply by building real, working projects from scratch
+- 🎯 **Goal:** Turning everyday messy problems into simple, automated software
+- ⚡ **Fun Fact:** I mine messy CSV rows and turn them into clean diamonds! ⛏️→💎
+
+<br clear="right"/>
 
 <br/>
 
-<!-- 3. Minecraft HUD Status Pills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HP-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XP_LEVEL-99_MAX-10B981?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=reetikeshari274-dotcom&label=PLAYERS+ONLINE&color=16A34A&style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-### ⛏️ `/gamemode creative` — Player Profile & Inventory
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```properties
-# server.properties — @reetikeshari274-dotcom
-player.name        = Reeti Keshari
-player.class       = Redstone & AI Architect 🧠⚡
-world.seed         = Creativity + Clean Logic
-current.biome      = Python Overworld & AI Nether
-
-# Equipped Hotbar Slots [1 - 5]
-slot.1.diamond_pickaxe = Mining & Cleaning Raw CSV Data
-slot.2.redstone_torch  = Automating Workflows with Python
-slot.3.enchanted_book  = Prompt Engineering & AI Systems
-slot.4.command_block   = Building Zero-Bloat CLI Tools
-slot.5.ender_pearl     = Teleporting Ideas into Real Code
+<!-- 4. ROW OF 6 ANIMATED PIXEL / RETRO MINI-ICONS -->
+<div
