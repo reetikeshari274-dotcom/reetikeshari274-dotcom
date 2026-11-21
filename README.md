@@ -1,7 +1,12 @@
+<!-- 1. CORRUPTED PIXEL GLITCH HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=23&duration=2000&pause=600&color=4ADE80&background=05080F&center=true&vCenter=true&width=980&height=95&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+REETI+KESHARI+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%E2%9A%A0%EF%B8%8F+0xDEADBEEF+%E2%96%93%E2%96%92+SYSTEM_CORRUPT+%E2%96%92%E2%96%93;PYTHON+%E2%80%A2+DATA+%E2%80%A2+BLENDER+%E2%80%A2+FIGMA+%E2%80%A2+AI" alt="Glitched Pixel Header" />
+</div>
+
 <!-- MAIN HERO BANNER: YOUR CUSTOM MINECRAFT REETI EDITION GLITCH IMAGE -->
 <div align="center">
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/reetikeshari274-dotcom/reetikeshari274-dotcom/main/Gemini_Generated_Image_4ns5h64ns5h64ns5_2.png" width="94%" style="border: 3px dashed #FF007F; border-radius: 6px;" alt="Minecraft Reeti Edition Glitch" />
+    <img src="https://raw.githubusercontent.com/reetikeshari274-dotcom/reetikeshari274-dotcom/main/reeti-minecraft-glitch.png" width="94%" style="border: 3px dashed #FF007F; border-radius: 6px;" alt="Minecraft Reeti Edition Glitch" />
   </a>
   <br/>
   <code>█▓▒░ [CRITICAL_GLITCH: REALITY_DESTROYED] ░▒▓█ &nbsp;|&nbsp; 🟩 GLITCH MODE: ACTIVE &nbsp;|&nbsp; ⚠️ DON'T ENTER (404)</code>
