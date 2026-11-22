@@ -81,7 +81,7 @@
 
 <br/>
 
-<div align="center"> <code>▓▒░</code> <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github,blender,html,css,mysql,figma,Canva,latex,TexStudio&theme=dark" /> <code>░▒▓</code> </div>
+<div align="center"> <code>▓▒░</code> <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github,blender,html,css,mysql,figma,latex&theme=dark" /> <code>░▒▓</code> </div>
 
 <br/>
 
@@ -90,6 +90,8 @@
   <code>▀▄</code>
   <img src="https://img.shields.io/badge/LATEX-090D16?style=for-the-badge&logo=latex&logoColor=4ADE80" />
   <code>▄▀</code>
+  <img src="https://img.shields.io/badge/TEXSTUDIO-090D16?style=for-the-badge&logo=latex&logoColor=22C55E" />
+  <code>▀▄</code>
   <img src="https://img.shields.io/badge/CSV_%26_DATA_CLEANING-090D16?style=for-the-badge&logo=databricks&logoColor=FF007F" />
   <code>▀▄</code>
   <img src="https://img.shields.io/badge/AI_PROMPTING-090D16?style=for-the-badge&logo=openai&logoColor=A855F7" />
@@ -107,7 +109,7 @@
 | **Web Technologies** | `HTML5` • `CSS3` • *Basics* |
 | **Database & Data** | `MySQL` • `CSV Data Sanitization` |
 | **Design & Creative Tools** | `Figma` • `Canva` |
-| **Documentation & Typesetting** | `LaTeX` |
+| **Documentation & Typesetting** | `LaTeX` • `TeXstudio` |
 
 </div>
 
