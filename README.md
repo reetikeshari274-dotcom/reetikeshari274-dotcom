@@ -152,7 +152,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-<!-- 6. CONTRIBUTION GRAPHS (BOTH BLUE & EMERALD + RADAR OVERVIEW!) -->
+<!-- 6. CONTRIBUTION GRAPH (EMERALD GREEN ONLY — 1 TIME) -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   `░▒▓█` Reeti's Contribution Graph `█▓▒░`
@@ -161,16 +161,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reetikeshari274-dotcom&theme=tokyo-night&hide_border=true&area=true&bg_color=05080F&color=38BDF8&line=38BDF8&point=FFFFFF&custom_title=Reeti's%20Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reetikeshari274-dotcom&theme=chartreuse-dark&hide_border=true&area=true&bg_color=05080F&color=4ADE80&line=4ADE80&point=FFFFFF&custom_title=Reeti's%20Emerald%20Activity%20Graph" alt="Emerald Contribution Graph" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reetikeshari274-dotcom&theme=tokyonight&utcOffset=5.5" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reetikeshari274-dotcom&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reetikeshari274-dotcom&theme=chartreuse-dark&hide_border=true&area=true&bg_color=05080F&color=4ADE80&line=4ADE80&point=FFFFFF&custom_title=Reeti's%20Emerald%20Contribution%20Graph" alt="Emerald Contribution Graph" />
 </div>
 
 <!-- SHATTERED PIXEL DIVIDER -->
