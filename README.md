@@ -70,9 +70,9 @@
 
 <br/>
 
-<!-- HAPPY DAY THE 19TH RETRO PIXEL CARD -->
+<!-- LUCKY GLITCH UNLOCKED (EMPTY SPACE INSTEAD OF PUMPKINS, SAME TIMING!) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=2600&pause=1000&color=FACC15&background=090D16&center=true&vCenter=true&width=720&height=65&lines=%F0%9F%8E%83+%F0%9F%8E%83;%E2%96%88%E2%96%93%E2%96%92+LUCKY_GLITCH_UNLOCKED+%E2%96%92%E2%96%93%E2%96%88"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=2600&pause=1000&color=FACC15&background=090D16&center=true&vCenter=true&width=720&height=55&lines=%E2%96%88%E2%96%93%E2%96%92+++++LUCKY_GLITCH_UNLOCKED+++++%E2%96%92%E2%96%93%E2%96%88" alt="Lucky Glitch Unlocked" />
 </div>
 
 <!-- SHATTERED PIXEL DIVIDER -->
@@ -91,7 +91,7 @@
 
 <div align="center">
   <code>▓▒░</code>
-  <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github,blender,html,css,mysql,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode&theme=dark" alt="Python, GitHub, VS Code" />
   <code>░▒▓</code>
 </div>
 
