@@ -212,11 +212,11 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Minecraft Mining Gameplay" />
-        <br/>
-        <code>⛏️ [SURVIVAL_MINING.EXE] ░▒▓█</code>
-      </td>
+<td width="50%" align="center">
+  <img src="./survival_mine_.gif" width="100%" alt="Happy Sunday the 19th" />
+  <br/>
+  <code>🐱 [HAPPY_SUNDAY_THE_19TH.GIF] ░▒▓█</code>
+</td>
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Minecraft Crafting & World" />
         <br/>
