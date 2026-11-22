@@ -204,6 +204,14 @@
     </tr>
   </table>
   <br/>
+  <!-- ADDED JUST BELOW SECTION 8 GIFS -->
+  <div align="center">
+    <code>█▓▒░ [LUCK_II_ACTIVE] • [GLITCH_INVENTORY_LOADED] ░▒▓█</code>
+    <br/><br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=13&duration=2200&pause=700&color=4ADE80&background=05080F&center=true&vCenter=true&width=860&height=42&lines=%E2%9A%A1+EFFECT:_LUCK_II_%2B_GLITCH_LOOT_DROP;%F0%9F%95%B9%EF%B8%8F+OVERWORLD_TELEMETRY:_ONLINE_%5B0xDEADBEEF%5D" alt="Luck II Glitch Status" />
+  </div>
+  <br/>
+  <br/>
   <!-- DARK-STYLED MINECRAFT LAUNCH BUTTON -->
 <div align="center">
   <a href="https://classic.minecraft.net/" target="_blank">
