@@ -215,7 +215,7 @@
 <td width="50%" align="center">
   <img src="./survival_mine_.gif" width="100%" alt="Happy Sunday the 19th" />
   <br/>
-  <code>🐱 [HAPPY_SUNDAY_THE_19TH.GIF] ░▒▓█</code>
+  <code>🐱 [SURVIVAL_MINING.GIF] ░▒▓█</code>
 </td>
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Minecraft Crafting & World" />
