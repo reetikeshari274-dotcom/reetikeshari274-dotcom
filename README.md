@@ -248,7 +248,7 @@
 <br/>
 
 <div align="center">
-  <h3>Show some 💚 by starring <a href="https://github.com/reetikeshari274-dotcom/csv-data-cleaner">csv-data-cleaner</a>!</h3>
+  <h3>Show some 💚 by starring <a href="https://github.com/reetikeshari274-dotcom/data-cleaner">csv-data-cleaner</a>!</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360">
   <br/><br/>
   <!-- SLIM RETRO GAME / GLITCH STRIP (SAME WIDTH & LOW HEIGHT) -->
