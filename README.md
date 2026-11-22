@@ -242,12 +242,11 @@
   <h3>Show some 💚 by starring <a href="https://github.com/reetikeshari274-dotcom/csv-data-cleaner">csv-data-cleaner</a>!</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360">
   <br/><br/>
+  <!-- SLIM RETRO GAME / GLITCH STRIP (SAME WIDTH & LOW HEIGHT) -->
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY_DARK_MINECRAFT_WORLD-05080F?style=for-the-badge&logo=minecraft&logoColor=4ADE80" alt="Play Dark Minecraft World" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=13&duration=2200&pause=700&color=4ADE80&background=05080F&center=true&vCenter=true&width=900&height=42&lines=%E2%96%B6+INSERT_COIN:_RETRO_ARCADE_MODE;%E2%9A%A1+GLITCH_STRIP_ACTIVE_%E2%96%93%E2%96%92%E2%96%91+CLICK_TO_PLAY" alt="Retro Arcade Strip" />
   </a>
 </div>
-
-<br/>
 
 <br/>
 <br/>
