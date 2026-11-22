@@ -216,9 +216,12 @@
     </tr>
   </table>
   <br/>
+  <!-- DARK-STYLED MINECRAFT LAUNCH BUTTON -->
+<div align="center">
   <a href="https://classic.minecraft.net/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=14&duration=2200&pause=700&color=05080F&background=10B981&center=true&vCenter=true&width=720&height=48&lines=%E2%96%B6+LAUNCH_DARK_MINECRAFT_IN_BROWSER_%5BCLICK%5D;%E2%9B%8F%EF%B8%8F+SPAWN_NOW_+_MINE_BLOCKS_LIVE!" alt="Launch Minecraft Button" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=14&duration=2200&pause=700&color=4ADE80&background=05080F&center=true&vCenter=true&width=760&height=52&lines=%E2%96%B6+DARK_MODE_LAUNCH:_MINECRAFT_WORLD;%F0%9F%8C%99+ENTER_DARK_OVERWORLD_%5BCLICK_HERE%5D!" alt="Dark Mode Launch Minecraft Button" />
   </a>
+</div>
 </div>
 
 <!-- SHATTERED PIXEL DIVIDER -->
