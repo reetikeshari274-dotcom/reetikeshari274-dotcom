@@ -72,7 +72,7 @@
 
 <!-- HAPPY DAY THE 19TH RETRO PIXEL CARD -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=2600&pause=1000&color=FACC15&background=090D16&center=true&vCenter=true&width=720&height=65&lines=%F0%9F%8E%83+HAPPY+DAY+THE+19TH+%F0%9F%8E%83;%E2%96%88%E2%96%93%E2%96%92+LUCKY_GLITCH_UNLOCKED+%E2%96%92%E2%96%93%E2%96%88" alt="Happy Day The 19th" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=2600&pause=1000&color=FACC15&background=090D16&center=true&vCenter=true&width=720&height=65&lines=%F0%9F%8E%83+%F0%9F%8E%83;%E2%96%88%E2%96%93%E2%96%92+LUCKY_GLITCH_UNLOCKED+%E2%96%92%E2%96%93%E2%96%88"  />
 </div>
 
 <!-- SHATTERED PIXEL DIVIDER -->
