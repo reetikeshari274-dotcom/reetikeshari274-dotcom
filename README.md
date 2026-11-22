@@ -81,7 +81,7 @@
 
 <br/>
 
-<div align="center"> <code>▓▒░</code> <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github,blender,html,css,mysql,figma,canva,latex,texstudio&theme=dark" /> <code>░▒▓</code> </div>
+<div align="center"> <code>▓▒░</code> <img src="https://skillicons.dev/icons?i=cpp,python,vscode,git,github,blender,html,css,mysql,figma,Canva,latex,TexStudio&theme=dark" /> <code>░▒▓</code> </div>
 
 <br/>
 
