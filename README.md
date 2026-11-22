@@ -170,7 +170,7 @@
 
 | 🚀 Quest | 📝 Description | 💻 Tech Stack |
 | :--- | :--- | :--- |
-| 🧹 [**CSV Data Cleaner CLI**](https://github.com/reetikeshari274-dotcom/csv-data-cleaner) | Zero-dependency Python CLI tool that trims whitespace, filters blank rows, and removes duplicates with **$O(1)$ hash speed** and Excel `utf-8-sig` BOM safety. | `Python`, `argparse`, `csv`, `pathlib` |
+| 🧹 [**Data Cleaner CLI**](https://github.com/reetikeshari274-dotcom/data-cleaner) | Zero-dependency Python CLI tool that trims whitespace, filters blank rows, and removes duplicates with **$O(1)$ hash speed** and Excel `utf-8-sig` BOM safety. | `Python`, `argparse`, `csv`, `pathlib` |
 
 </div>
 
@@ -194,7 +194,7 @@
 <td width="50%" align="center">
   <img src="./survival_mine_.gif" width="100%" alt="Happy Sunday the 19th" />
   <br/>
-  <code>🐱 [SURVIVAL_MINING.GIF] ░▒▓█</code>
+  <code>🐱 [SURVIVAL_MINING.EXE] ░▒▓█</code>
 </td>
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="Minecraft Crafting & World" />
